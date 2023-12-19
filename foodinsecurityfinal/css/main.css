@@ -2,6 +2,25 @@ body {
   margin: 0px;
 }
 
+nav {
+  background-color: lightblue;
+  text-align: center;
+  font-size: 5em;
+  color: red;
+    text-shadow:
+    1px 1px 1px black,
+    2px 2px 1px black;
+    font-weight: bold;
+}
+
+.caption{
+  font-size: 0.8em;
+}
+
+img{
+  width:100%;
+}
+
 article {
   margin-left: 10%;
   width: 60%;
@@ -28,3 +47,4 @@ a:hover {
   color: #717171;
   text-decoration-color: #ffcb04;
 }
+
